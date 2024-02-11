@@ -1,4 +1,4 @@
 # demo
 first github repository
 <br>
-author - Aaryan Tiwari(IIT Madras)
+Author - Aaryan Tiwari(IIT Madras)
